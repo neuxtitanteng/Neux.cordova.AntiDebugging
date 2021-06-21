@@ -18,6 +18,7 @@
     <config-file target="config.xml" parent="/widget">
       <feature name="HelloCPlugin">
         <param name="ios-package" value="HelloCPlugin" />
+        <param name="onload" value="true" />
       </feature>
     </config-file>
 
