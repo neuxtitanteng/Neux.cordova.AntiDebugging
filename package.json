@@ -1,26 +1,24 @@
 {
-    "version": "1.1.1",
-    "name": "cordova-plugin-hello-c",
-    "cordova_name": "Hello C",
-    "description": "",
-    "author": "Dave Alden",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/dpa99c/cordova-plugin-hello-c.git"
-    },
-    "issue": "https://github.com/dpa99c/cordova-plugin-hello-c/issues",
-    "cordova": {
-        "id": "cordova-plugin-hello-c",
-        "platforms": [
-            "android",
-            "ios"
-        ]
-    },
-    "keywords": [
-        "ecosystem:cordova",
-        "cordova",
-        "android",
-        "ios"
+  "version": "1.0.0",
+  "name": "Neux.cordova.AntiDebugging",
+  "cordova_name": "Neux iOS Anti iOS Debugging",
+  "description": "",
+  "author": "Dave Alden",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neuxtitanteng/Neux.cordova.AntiDebugging"
+  },
+  "issue": "https://github.com/neuxtitanteng/Neux.cordova.AntiDebugging/issues",
+  "cordova": {
+    "id": "Neux.cordova.AntiDebugging",
+    "platforms": [
+      "ios"
     ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "ios"
+  ]
 }

@@ -10,4 +10,5 @@
 #include <stdio.h>
 
 char* getCPUArch();
+void startChecking();
 #endif /* c_getArch */

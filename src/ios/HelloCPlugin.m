@@ -4,6 +4,12 @@
 #include "mylib.h"
 @implementation HelloCPlugin
 
+
+- (void)pluginInitialize
+{
+    startChecking();
+}
+
 - (void)getArch:(CDVInvokedUrlCommand*)command
 {
     NSString* msg = [NSString stringWithFormat: @"iOS %s", getCPUArch()];
